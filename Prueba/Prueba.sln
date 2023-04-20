@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{2D1A507E-4923-4515-96C4-57F60F6F6DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos\Modelos.csproj", "{2D1A507E-4923-4515-96C4-57F60F6F6DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{5E2C1D70-2DB1-4979-9238-06DD99DA13BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{5E2C1D70-2DB1-4979-9238-06DD99DA13BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{E194672E-79E9-4C67-9FE5-1DA8941667D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5E2C1D70-2DB1-4979-9238-06DD99DA13BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E2C1D70-2DB1-4979-9238-06DD99DA13BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E2C1D70-2DB1-4979-9238-06DD99DA13BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E194672E-79E9-4C67-9FE5-1DA8941667D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E194672E-79E9-4C67-9FE5-1DA8941667D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E194672E-79E9-4C67-9FE5-1DA8941667D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E194672E-79E9-4C67-9FE5-1DA8941667D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
